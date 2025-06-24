@@ -17,7 +17,7 @@ Une application web moderne développée avec Laravel et Vue.js qui permet aux u
 - **Backend**: Laravel 11
 - **Frontend**: Vue.js 3 avec Inertia.js
 - **Base de données**: MySQL/PostgreSQL
-- **Authentification**: Laravel Jetstream + Fortify
+- **Authentification**: Laravel Jetstream
 - **Styling**: Tailwind CSS
 - **API IA**: OpenAI GPT API
 - **Build Tool**: Vite
@@ -149,7 +149,7 @@ Ce projet est sous licence MIT.
 
 ## 👨‍💻 Auteur
 
-Développé par [Votre Nom] pour [Nom du Cours/Université]
+Développé par Ferbeck Nicolas pour IFOSUP
 
 ---
 
